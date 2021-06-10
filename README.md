@@ -1,5 +1,15 @@
 # Markdown_Practice
 
+## 차례
+
+- [Markdown_Practice](#markdown_practice)
+	- [차례](#차례)
+	- [Emphasis](#emphasis)
+	- [Lists](#lists)
+	- [Table](#table)
+	- [Links](#links)
+	- [Images](#images)
+
 ## Emphasis
 
 이것은 한 *문단*입니다.  
@@ -44,4 +54,5 @@
 
 ![구글로고](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "구글 이미지")
 
-<imgsrc = "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width = 100>
+<img
+src = "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width = 100>
